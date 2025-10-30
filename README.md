@@ -12,7 +12,7 @@ My first repository
 - Great acting and emotional scenes 
 - Beautiful soundtrack and cinematography
 
-> “’Cause the house we built is not just a house — it’s a home.”
+> “’Cause the house we built is not just a house  it’s a home.”
 
 ## My Favorite Movie: Pagpag: Siyam na Buhay 
 
@@ -25,4 +25,4 @@ My first repository
 - May halong superstition at Filipino culture 
 - Magandang twist sa ending
 
-> “Wag kang basta-basta umalis pagkatapos ng burol... baka sundan ka nila.” 
+> “Wag kang basta-basta umalis pagkatapos ng burol, baka sundan ka nila.” 
